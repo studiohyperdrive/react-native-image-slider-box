@@ -92,8 +92,6 @@ export class SliderBox extends Component {
           disabled={disableOnPress}
           onPress={this.onCurrentImagePressedHandler}
           activeOpacity={activeOpacity}>
-        >
-
           <ImageComponent
             style={[
               {
